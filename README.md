@@ -37,14 +37,13 @@ Busco minha primeira oportunidade como **Estagiário ou Desenvolvedor Júnior**,
 <p align="center">
   <img 
     height="160em" 
-    src="https://github-readme-stats.vercel.app/api?username=nathancesa-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=nathancesar-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
   <img 
     height="160em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathancesa-dev&layout=compact&langs_count=7&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathancesar-dev&layout=compact&langs_count=7&theme=tokyonight"
   />
 </p>
-
 
 ---
 
