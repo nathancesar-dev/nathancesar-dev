@@ -17,7 +17,7 @@
 
 - HTML  
 - CSS (intermediário)  
-- JavaScript (em andamento)  
+- JavaScript
 - Git  
 - GitHub  
 
